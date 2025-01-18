@@ -1,0 +1,11 @@
+/* bugSolution.css */
+
+.dynamic-list-item:nth-child(odd) {
+  background-color: lightblue;
+}
+
+.dynamic-list-item:nth-child(even) {
+  background-color: lightcoral;
+}
+
+/*This requires JavaScript to dynamically add the 'dynamic-list-item' class to the dynamically added items*/
